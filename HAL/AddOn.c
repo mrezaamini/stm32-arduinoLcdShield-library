@@ -32,7 +32,7 @@
 #define RS GPIO_PIN_9
 #define RS_GPIO GPIOA
 
-/* functions  >> Add these in your functions-----------------*/
+/* functions  >> Add these in your functions----------------*/
 
 void delayMs(int n);
 void LCD_nibble_write(char data, unsigned char control);
